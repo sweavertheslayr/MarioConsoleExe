@@ -1,0 +1,135 @@
+﻿  MarioConsoleExe.cpp
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(95,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(96,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(163,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(213,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(802,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(906,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(964,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1022,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1213,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1360,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1425,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1541,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1542,151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1543,155): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1544,153): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1545,155): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1575,240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1581,223): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1581,170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1581,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1581,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1589,194): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1589,173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1589,148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1589,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1590,175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1590,154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1590,129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1590,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1594,174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1594,153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1594,129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1594,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1595,194): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1595,173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1595,149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1595,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1599,194): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1599,173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1599,148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1599,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1600,175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1600,154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1600,129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1600,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1604,194): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1604,173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1604,148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1604,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1609,174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1609,153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1609,128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1609,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1613,174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1613,153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1613,128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1613,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1617,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1617,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1617,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1617,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1633,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1634,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1635,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1636,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1651,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1651,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1684,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1685,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1694,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1695,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1719,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1834,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1923,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1951,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1982,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1983,121): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1984,120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1985,122): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(1998,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2097,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2247,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2490,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2491,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2493,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2669,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2801,49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2802,49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2803,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2804,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2814,50): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2815,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2828,50): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(2829,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3020,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3085,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3086,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3165,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3166,118): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3167,119): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3168,120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3169,121): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3170,120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3175,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3224,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3234,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3276,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3338,39): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3419,55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3424,66): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3434,42): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3468,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3493,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3602,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3632,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3633,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3662,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3663,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3767,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3768,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3777,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3778,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3788,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3861,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\source\repos\MarioConsoleExe\MarioConsoleExe.cpp(3862,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+raylib.lib(raudio.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(raudio.obj)' or at 'C:\Users\spenc\source\repos\MarioConsoleExe\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rcore.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rcore.obj)' or at 'C:\Users\spenc\source\repos\MarioConsoleExe\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'C:\Users\spenc\source\repos\MarioConsoleExe\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rshapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rshapes.obj)' or at 'C:\Users\spenc\source\repos\MarioConsoleExe\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rtext.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rtext.obj)' or at 'C:\Users\spenc\source\repos\MarioConsoleExe\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rtextures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rtextures.obj)' or at 'C:\Users\spenc\source\repos\MarioConsoleExe\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\spenc\source\repos\MarioConsoleExe\Debug\raylib.pdb'; linking object as if no debug info
+  MarioConsoleExe.vcxproj -> C:\Users\spenc\source\repos\MarioConsoleExe\Debug\MarioConsoleExe.exe
